@@ -1,0 +1,30 @@
+.header {
+	background-color: orange;
+	position: fixed;
+	top:0;
+	width: 100%
+}
+
+
+h5{
+	margin-top: -15px;
+}
+
+.one{
+	margin-top: 130px;
+}
+
+.card{
+	border: solid lightgrey 1px;
+	margin-bottom: 20px;
+}
+
+.card img{
+	max-width: 100%;
+	height: auto;
+}
+
+.character, .description{
+	margin-left: 20px;
+}
+
